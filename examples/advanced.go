@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/dyatlov/go-opengraph/opengraph"
+	"github.com/hmhealey/go-opengraph/opengraph"
 	"golang.org/x/net/html"
 )
 
