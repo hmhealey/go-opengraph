@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hmhealey/go-opengraph/opengraph"
+	"github.com/dyatlov/go-opengraph/opengraph"
 )
 
 func main() {
